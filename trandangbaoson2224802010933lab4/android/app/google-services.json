@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44327915630",
+    "project_id": "contactsapp-b547e",
+    "storage_bucket": "contactsapp-b547e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44327915630:android:f53a862bcc2b1c6aad967f",
+        "android_client_info": {
+          "package_name": "com.example.trandangbaoson2224802010933lab4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44327915630-5nckpnkahiopkb4skfja32meodij71j8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trandangbaoson2224802010933lab4",
+            "certificate_hash": "1082f6632a83162070883931e6e046153c832fc5"
+          }
+        },
+        {
+          "client_id": "44327915630-to3p5i2v27p2jh95avh5jchsk0kebq5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfKqxRBPxjm0nsbArIN4hbd1owrBitTiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44327915630-to3p5i2v27p2jh95avh5jchsk0kebq5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
